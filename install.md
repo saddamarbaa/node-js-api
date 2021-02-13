@@ -7,3 +7,5 @@
 -- npm install --save random
 
 -- npm install seedrandom
+
+- npm install jshit --save
