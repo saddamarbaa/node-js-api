@@ -1,0 +1,24 @@
+{
+  "name": "node.js-api",
+  "version": "1.0.0",
+  "description": "node js Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saddamarbaa/node.js-api.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "api"
+  ],
+  "author": "Saddam Arbaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saddamarbaa/node.js-api/issues"
+  },
+  "homepage": "https://github.com/saddamarbaa/node.js-api#readme"
+}
