@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/saddamarbaa/node.js-api/issues"
   },
-  "homepage": "https://github.com/saddamarbaa/node.js-api#readme"
+  "homepage": "https://github.com/saddamarbaa/node.js-api#readme",
+  "dependencies": {
+    "mongoose": "^5.11.16"
+  }
 }
