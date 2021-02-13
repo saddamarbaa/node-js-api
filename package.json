@@ -23,6 +23,8 @@
   "homepage": "https://github.com/saddamarbaa/node.js-api#readme",
   "dependencies": {
     "mongoose": "^5.11.16",
+    "random": "^2.2.0",
+    "seedrandom": "^3.0.5",
     "underscore": "^1.12.0"
   }
 }
