@@ -2,3 +2,4 @@
 
 -- npm init
 -- npm install mongoose
+-- npm i underscore
