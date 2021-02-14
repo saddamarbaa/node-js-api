@@ -1,11 +1,12 @@
-const _ = require("underscore");
-const seedrandom = require("seedrandom");
+const express = require("express");
+const app = express();
 
-let total = _.indexOf([1, 2, 3, 4], 2);
-let tota2 = _.indexOf([1, 2, 3, 4], 4);
+app.get("/", (req, res) => {
+  res.send("Hello World");
+});
 
-console.log(tota2);
-console.log(total);
+app.get("/api/employes", (req, res) => {
+  res.send(["Saddam", "Ali", "Adam"]);
+});
 
-let rng = seedrandom("hello.");
-console.log(rng());
+app.listen(3000, () => console.log("my app is working on port 3000"));
