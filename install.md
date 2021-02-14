@@ -12,5 +12,7 @@
 
 -- npm install express --save
 
+-- npm install joi
+
 A RESTful API (Representational state transfer (REST))
 Express - Node.js web application framework
